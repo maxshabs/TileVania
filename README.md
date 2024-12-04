@@ -14,12 +14,12 @@ TileVania is a 2D platformer game developed in Unity using C# and object-oriente
 3. Double-click the `TileVania.exe` file to run the game.
 4. Use the keyboard to control your character and navigate through the levels.
 5. Complete the levels by reaching the exit while avoiding obstacles and collecting items.
-6. Enjoy the game and aim for the highest score!
+6. Enjoy the game!
 
 ## Screenshots
 
 ### Start Screen
-![Start Screen](screenshots/<startmenu.png>)
+![Start Screen](screenshots/startmenu.png)
 ### Gameplay 1
 ![Gameplay 1](screenshots/levelone.png)
 
